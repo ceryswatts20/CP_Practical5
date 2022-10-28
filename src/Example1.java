@@ -4,6 +4,8 @@ import java.util.Random;
   Updated
   Hans Vandierendonck September 2014
 ===========================================================*/
+
+// My implementation of Q1
 class Example1 {
     static final int MAX_NUMBER = 10;
     public static void main (String[] args) {
@@ -24,7 +26,7 @@ class Producer extends Thread {
     private int number = 0;
     private PCM pcm;
     private int id;
-    Random rnd = new Random();
+    private Random rnd = new Random();
 
     public Producer(PCM pcm, int id) {
         this.pcm = pcm;
@@ -50,7 +52,7 @@ class Consumer extends Thread {
     private int number = 0;
     private PCM pcm;
     private int id;
-    Random rnd = new Random();
+    private Random rnd = new Random();
 
     public Consumer(PCM pcm, int id) {
         this.pcm = pcm;
@@ -75,7 +77,7 @@ class PCM {
   private int N = 4;
   private int[] buffer = new int [N];
   private int tail = 0, head = 0, count = 0;
-  Random rnd = new Random();
+  private Random rnd = new Random();
 
   // Called 'append' in notes
   public synchronized void put (int i) {

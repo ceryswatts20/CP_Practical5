@@ -5,21 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3c39aef-2bd2-4028-9fac-f31a3a15d835" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CP_Practical5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example1FullImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadersWriters/ReadWrite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadersWriters/ReadWriteMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadersWriters/ReadWriteSafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadersWriters/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ReadersWriters/Writer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example1FullImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example1FullImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Example2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Example2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />

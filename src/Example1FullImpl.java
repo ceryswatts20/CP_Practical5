@@ -2,6 +2,8 @@
   Updated
   Hans Vandierendonck September 2014
 ===========================================================*/
+
+// Solution to Q1
 class Example1FullImpl {
     static final int MAX_NUMBER = 10;
     public static void main (String[] args) {
